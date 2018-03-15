@@ -1,0 +1,6 @@
+name: mruby-jsonrpc-client
+description: JRONRPC::Client class
+author: masahino
+website: https://github.com/masahino/mruby-jsonrpc-client
+protocol: git
+repository: https://github.com/masahino/mruby-jsonrpc-client.git
